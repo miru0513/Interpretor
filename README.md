@@ -48,11 +48,11 @@ It includes lexical evaluation, expressions, statements, heap/managers, file ope
 2. Set **Project SDK** to Java 17+  
 3. Apply changes
 
----
+
 
 ### **3. Build the Project**
-Click ** Build Project** 
----
+Click  Build Project 
+
 
 
 
