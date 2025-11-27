@@ -34,7 +34,26 @@ It includes lexical evaluation, expressions, statements, heap/managers, file ope
 - **Text Menu Interface**
   - Run predefined example programs
 
+## ▶️ How to Run the Project
+
+### **1. Open the Project**
+1. Open **IntelliJ IDEA**
+2. Go to **File → Open**
+3. Select the project folder
+
+---
+
+### **2. Configure the JDK**
+1. Go to **File → Project Structure → Project**
+2. Set **Project SDK** to Java 17+  
+3. Apply changes
+
+---
+
+### **3. Build the Project**
+Click ** Build Project** 
+---
 
 
-### **2. Build and run**
-Run the main entry point:
+
+
